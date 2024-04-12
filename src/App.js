@@ -14,10 +14,10 @@ function App() {
 <BrowserRouter>
       <Routes>
         <Route  >
-          <Route index element={<Home />} />
-          <Route path="blog" element={<Blog />} />
-          <Route path="contact" element={<Contact />} />
-          <Route path="about" element={<About />} />
+          <Route path="/port3" element={<Home />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/about" element={<About />} />
           <Route path="/blog/:id" element={<Blog_detail/>} />
 blogs.json
         </Route>
