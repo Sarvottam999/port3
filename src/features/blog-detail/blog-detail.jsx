@@ -9,6 +9,9 @@ const Blog_detail = () => {
     const blog = blogsData.find(blog => blog.id === parseInt(id));
   
   return (
+    <div className='blog-detail-page-container'>
+
+
     <div className='blog-detail-page margin-1'> 
         <div className="blog-detail-thumbnail">
 
@@ -30,6 +33,8 @@ const Blog_detail = () => {
 
 
     </div>
+    </div>
+
   )
 }
 

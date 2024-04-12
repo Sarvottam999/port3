@@ -3,8 +3,18 @@
     width: 60%;
     margin: 0 auto;
 }
+.blog-detail-page-container{
+    min-height: 100vh;
+
+    background-color: var(--blue);
+
+
+}
 .blog-detail-page{
-    margin-top: 1rem;
+    /* background-color: var(--blue); */
+
+
+    padding-top: 1rem;
 }
 
 .blog-detail-thumbnail{
