@@ -15,10 +15,10 @@ function App() {
       <Routes>
         <Route  >
           <Route path="/port3" element={<Home />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/blog/:id" element={<Blog_detail/>} />
+          <Route path="/port3/blog" element={<Blog />} />
+          <Route path="/port3/contact" element={<Contact />} />
+          <Route path="/port3/about" element={<About />} />
+          <Route path="/port3/blog/:id" element={<Blog_detail/>} />
 blogs.json
         </Route>
       </Routes>

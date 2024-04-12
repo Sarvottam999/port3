@@ -7,7 +7,7 @@ const Article_item = ({ id, title, img , time_to_read, }) => {
      <div className="list-article-item">
 
     <div className="article-thmbnail"><img src={img} alt="thubnail"   /></div>
-    <Link to={`/blog/${id}`} className="article-link">
+    <Link to={`/port3/blog/${id}`} className="article-link">
 
     <div className="article-title">{title}</div>
     </Link>
