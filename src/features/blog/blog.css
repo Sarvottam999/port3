@@ -1,0 +1,89 @@
+.blog-page{
+    padding: 0 15rem;
+    padding-bottom: 15rem ;
+    min-height: 100vh;
+
+    
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: var(--purple);
+
+}
+
+.blog-heading{
+    /* font-size: 100px; */
+    margin-top: 2rem;
+
+}
+
+/* drop dowan */
+.tag-filter select {
+
+    padding: 8px 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    outline: none;
+
+  }
+  
+  .tag-filter select:hover {
+    border-color: #888;
+  }
+  
+  .tag-filter select:focus {
+    /* border-color: #555; */
+    background-color: var(--blue);
+
+  }
+  
+  .tag-filter option {
+    padding: 8px 12px;
+  }
+
+
+/* ================================ */
+
+.list-article-container{
+    margin-top: 2rem;
+    flex: 1;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15em, 1fr)); /* Each column at least 200px wide, maximum flexible */
+    grid-gap: 11em; /* Gap between grid items */
+
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+
+.blog-btn{
+    color: #ffffff;
+    background-color: black;
+}
+
+.list-blog-error{
+    font-size: 3rem;
+    /* color: red; */
+}
+
+
+
+
+@media screen and (max-width: 788px) {
+    .blog-page{
+    padding: 0 2rem;
+
+
+    }
+
+.list-article-container{
+
+}
+
+}

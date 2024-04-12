@@ -1,0 +1,29 @@
+.about-text-container{
+    padding: 0 10%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15em, 1fr)); /* Each column at least 200px wide, maximum flexible */
+    gap: 2rem;
+}
+
+.left-bigbox h1{
+    padding: 0 10%;
+
+    width: 100%;
+    /* background-color: aqua; */
+    float: left;
+}
+
+@media screen and (max-width: 788px) {
+.about-container{
+    height: 100%;
+}
+
+.about-right-bigbox{
+    display: none;
+}
+
+.about-left-bigbox{
+    border-radius: 0;
+}
+
+}

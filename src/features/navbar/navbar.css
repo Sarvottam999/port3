@@ -1,0 +1,50 @@
+.navbar {
+    /* height: 50px; */
+    /* margin: 10px auto; */
+    /* width: 20%; */
+    /* background-color: #555;   */
+    display: flex;
+    justify-content: space-evenly; /* Distribute items evenly */
+}
+
+.nav-link {
+    /* padding: 10px 52px; */
+    font-size: 40px;
+    color: #000000; /* Text color for the links */
+    text-decoration: none; /* Remove underline from links */
+ }
+
+.nav-link:hover {
+  border-radius: 15px;
+  color: #ffffff; /* Text color for the links */
+
+    background-color: #000000; /* Background color on hover */
+}
+
+.nav-link.active {
+    background-color: #000000; /* Background color for the active link */
+}
+
+
+@media screen and (max-width: 708px) {
+
+.navbar {
+    margin: 0px 0;
+    width: 100%;
+
+}
+
+.nav-link {
+    /* padding: 5px 22px; */
+    font-size: 20px;
+  }
+
+  .nav-link:hover {
+    border-radius: 5px;
+    color: #ffffff; /* Text color for the links */
+  
+      background-color: #000000; /* Background color on hover */
+  }
+
+
+}

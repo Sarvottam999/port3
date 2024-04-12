@@ -1,0 +1,67 @@
+ {
+      "id": 1,
+      "title": "First Blog Post",
+      "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+      "time_to_read": "15 min",
+      "date_published": "2024-04-12T08:00:00Z",
+      "tags": ["AI", "Machine Learning", "Technology"]
+    
+
+
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+  "time_to_read": "15 min",
+  "date_published": "2024-04-12T08:00:00Z",
+  "tags": ["AI", "Machine Learning", "Technology"]
+
+    },
+    {
+        "id": 3,
+        "title": "Second Blog Post",
+        "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+    "time_to_read": "15 min",
+    "date_published": "2024-04-12T08:00:00Z",
+    "tags": ["AI", "Machine Learning", "Technology"]
+  
+      }
+      ,
+    {
+        "id": 4,
+        "title": "Second Blog Post",
+        "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+    "time_to_read": "15 min",
+    "date_published": "2024-04-12T08:00:00Z",
+    "tags": ["AI", "Machine Learning", "Technology"]
+  
+      },
+      {
+          "id": 5,
+          "title": "Second Blog Post",
+          "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+      "time_to_read": "15 min",
+      "date_published": "2024-04-12T08:00:00Z",
+      "tags": ["AI", "Machine Learning", "Technology"]
+    
+        },
+        {
+            "id": 6,
+            "title": "Second Blog Post",
+            "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+        "time_to_read": "15 min",
+        "date_published": "2024-04-12T08:00:00Z",
+        "tags": ["AI", "Machine Learning", "Technology"]
+      
+          },
+          {
+              "id": 7,
+              "title": "Second Blog Post",
+              "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+          "time_to_read": "15 min",
+          "date_published": "2024-04-12T08:00:00Z",
+          "tags": ["AI", "Machine Learning", "Technology"]
+        
+            }
+  

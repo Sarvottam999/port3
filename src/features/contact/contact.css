@@ -1,0 +1,79 @@
+.contact-container{
+ 
+
+}
+
+.left-bigbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border-radius:  3rem 0 0 3rem ; */
+    
+  }
+
+
+  .right-bigbox{
+  padding: 3rem 3rem 0 3rem;
+
+  }
+
+  .contact-right-heading{
+    width: 100%;
+    text-align: right;
+    font-size: 6rem;
+
+
+    /* background-color: aquamarine; */
+  }
+  /* .contact-left-heading{
+    font-size: 4rem;
+  } */
+
+  .contact-left-bigbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .social-containe-icon{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+  }
+
+  .contact-left-heading{
+    text-align: center;
+    font-size: 4rem;
+  }
+
+  .social-item{
+    margin: 20px 15px;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    justify-content: center; /* Horizontally center items */
+    align-items: center; /* Vertically center items */
+    border-radius: 35px;
+    background-color: white;
+  }
+
+  .social-img{
+    /* height: 40px;
+    width: 40px; */
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+      max-height: 100%; /* Ensure the image doesn't exceed the container height */
+      display: inline-block;  
+  }
+
+
+  @media screen and (max-width: 708px) {
+
+  .contact-right-heading{
+    /* width: 100%; */
+    text-align: left;
+    
+  }
+}
