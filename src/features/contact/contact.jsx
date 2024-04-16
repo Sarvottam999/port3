@@ -30,9 +30,13 @@ const Contact = () => {
         {/* <div className="social-item">
           <img className="social-img" src = {in_img} alt="My Happy SVG"/>
         </div> */}
-        {/* <div className="social-item">
+        <div className="social-item">
+          <a href="https://github.com/Sarvottam999">
+
           <img className="social-img" src = {github_img} alt="My Happy SVG"/>
-        </div> */}
+
+          </a>
+        </div>
         </div>
 
       </div>
