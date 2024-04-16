@@ -1,67 +1,77 @@
- {
-      "id": 1,
-      "title": "First Blog Post",
-      "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
-      "time_to_read": "15 min",
-      "date_published": "2024-04-12T08:00:00Z",
-      "tags": ["AI", "Machine Learning", "Technology"]
-    
+[
+
+  {
+    "id": 1,
+    "title": "First Blog Post",
+    "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+    "time_to_read": "15 min",
+    "date_published": "2024-04-12T08:00:00Z",
+    "tags": ["AI" ],
+    "img" : "https://img.freepik.com/premium-photo/little-kid-lost-fairytales-their-cozy-sunlit-room_1050324-1397.jpg"
+  
 
 
-    },
-    {
-      "id": 2,
+  },
+  {
+    "id": 2,
+    "title": "Second Blog Post",
+    "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+"time_to_read": "15 min",
+"date_published": "2024-04-12T08:00:00Z",
+ "img" : "https://img.freepik.com/free-photo/cartoon-mountain-character-with-big-eye_23-2151363045.jpg",
+"tags": [ "Machine Learning" ]
+
+  },
+  {
+      "id": 3,
       "title": "Second Blog Post",
       "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
   "time_to_read": "15 min",
   "date_published": "2024-04-12T08:00:00Z",
-  "tags": ["AI", "Machine Learning", "Technology"]
+   "img" : "https://img.freepik.com/free-photo/retro-digital-a…n-person-using-radio-technology_23-2151356057.jpg",
+  "tags": [  "Technology"]
+
+    }
+    ,
+  {
+      "id": 4,
+      "title": "Second Blog Post",
+      "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
+  "time_to_read": "15 min",
+  "date_published": "2024-04-12T08:00:00Z",
+   "img" : "https://img.freepik.com/free-photo/portrait-person…from-using-tech-device-too-long_23-2151393710.jpg",
+  "tags": ["AI"]
 
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Second Blog Post",
         "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
     "time_to_read": "15 min",
     "date_published": "2024-04-12T08:00:00Z",
-    "tags": ["AI", "Machine Learning", "Technology"]
-  
-      }
-      ,
-    {
-        "id": 4,
-        "title": "Second Blog Post",
-        "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
-    "time_to_read": "15 min",
-    "date_published": "2024-04-12T08:00:00Z",
-    "tags": ["AI", "Machine Learning", "Technology"]
+     "img" : "https://img.freepik.com/premium-photo/woman-with-g…lothes-from-60s-high-quality-photo_96727-3298.jpg",
+    "tags": [ "Machine Learning" ]
   
       },
       {
-          "id": 5,
+          "id": 6,
           "title": "Second Blog Post",
           "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
       "time_to_read": "15 min",
       "date_published": "2024-04-12T08:00:00Z",
-      "tags": ["AI", "Machine Learning", "Technology"]
+       "img" : "https://img.freepik.com/free-photo/3d-cute-unicorn_23-2151400467.jpg",
+      "tags": [  "Technology"]
     
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "Second Blog Post",
             "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
         "time_to_read": "15 min",
         "date_published": "2024-04-12T08:00:00Z",
-        "tags": ["AI", "Machine Learning", "Technology"]
+         "img" : "https://img.freepik.com/premium-photo/ethical-cons…ons-being-debated-by-scientists_1003615-10382.jpg",
+        "tags": ["AI" ]
       
-          },
-          {
-              "id": 7,
-              "title": "Second Blog Post",
-              "content": "Artificial intelligence (AI) is the simulation of human intelligence processes...",
-          "time_to_read": "15 min",
-          "date_published": "2024-04-12T08:00:00Z",
-          "tags": ["AI", "Machine Learning", "Technology"]
-        
-            }
-  
+          }
+
+   ]

@@ -98,8 +98,21 @@ html, body {
 .btn:active {
   color: #000000;
 
-  background-color: #ffffff; /* Change to your desired active background color */
+  /* background-color: #ffffff;  */
 }
+
+.follow-btn {
+     text-decoration:none;
+     color: #000;
+    /* pointer-events:var(--blue); */
+}
+
+.follow-btn:hover {
+  color: #ffffff;
+  background-color: #000000;
+
+}
+
 
 .container{
   height: 100vh;

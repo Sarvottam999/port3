@@ -16,18 +16,23 @@ const Contact = () => {
 
 
         <div className="social-item">
+          <a href="mailto:kallitex1@gmail.com">
+
           <img className="social-img" src = {email_img} alt="My Happy SVG"/>
+
+          </a>
         </div>
 
         <div className="social-item">
-          <img className="social-img" src = {twitter_img} alt="My Happy SVG"/>
+          <a target="_blank"  href="https://x.com/0x67658773?t=gko6cyN2eXNiESaosLTGgA&s=08"> <img className="social-img" src = {twitter_img} alt="My Happy SVG"/></a>
+          
         </div>
-        <div className="social-item">
+        {/* <div className="social-item">
           <img className="social-img" src = {in_img} alt="My Happy SVG"/>
-        </div>
-        <div className="social-item">
+        </div> */}
+        {/* <div className="social-item">
           <img className="social-img" src = {github_img} alt="My Happy SVG"/>
-        </div>
+        </div> */}
         </div>
 
       </div>
